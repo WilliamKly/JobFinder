@@ -83,8 +83,8 @@
 
 #search-form button:hover{
     background-color: #fff;
-    color: #f03e3e;
-    border-color: #f03e3e;
+    color: #000dbe;
+    border-color: #000dbe;
 }
 
 /* Lista */
@@ -131,7 +131,7 @@
     top: 35px;
     height: 50px;
     line-height: 35px;
-    background-color: #f03e3e;
+    background-color: #000dbe;
     border: 1px solid transparent;
     border-radius: 0;
     color: #fff;
@@ -172,7 +172,7 @@
 }
 
 #add-form-container h2{
-    color: #f03e3e;
+    color: #000dbe;
     font-weight: bold;
     font-size: 24px;
     margin-bottom: 30px;
@@ -190,7 +190,7 @@
 #form-box button {
     height: 50px;
     width: 200px;
-    background-color: #f03e3e;
+    background-color: #000dbe;
     border: 1px solid transparent;
     border-radius: 0;
     margin-top: 20px;
@@ -227,17 +227,17 @@
 }
 
 .main-color{
-    color: #f03e3e;
+    color: #000dbe;
 }
 
 .back-link{
-    border: 1px solid #f03e3e;
+    border: 1px solid #000dbe;
     padding: 5px 10px;
     transition: .5s;
 }
 
 .back-link:hover{
-    background-color: #f03e3e;
+    background-color: #000dbe;
     color: #fff;
     text-decoration: none;
 }
